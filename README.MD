@@ -2,9 +2,7 @@
 
 This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
-**Live-** 
-
-**Code-** 
+**Live-** https://ornate-semolina-e4d061.netlify.app/
 
 ## Purpose
 
